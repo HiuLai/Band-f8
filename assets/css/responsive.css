@@ -1,5 +1,5 @@
 /* pc  */
-@media (min-width:1024px){
+@media (min-width:64em){
     /* #nav .mobile-menu-btn{
         display: none;
     } */
@@ -7,7 +7,7 @@
 }
 
 /* tablet && mobile  */
-@media (max-width:1023px){
+@media (max-width:63.9375em){
     .btn{
         padding: 15px 16px;
     }
@@ -39,14 +39,14 @@
 }
 
 /* tablet  */
-@media (min-width:740px) and (max-width:1023px){
+@media (min-width:46.25em) and (max-width:63.9375em){
     /* #nav .mobile-menu-btn{
         display: none;
     } */
 }
 
 /* mobile  */
-@media (max-width:739px){
+@media (max-width:46.1875em){
     
     #nav{
         display: block;
