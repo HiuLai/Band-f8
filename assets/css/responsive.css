@@ -32,6 +32,10 @@
     .contact-submit-btn{
         font-size: 16px;
     }
+
+    #footer .socials-list a{
+        padding: 0 16px;
+    }
 }
 
 /* tablet  */
